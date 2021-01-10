@@ -1,0 +1,23 @@
+#Create an array with integers (list with commas)
+$a = 1, 2 , 3 , 4 , 5
+
+#Call the variable to return the array
+$a
+
+
+#Create an array with letters (list with commas and ",")
+$1 = "a" , "b" , "c" , "d" , "e"
+
+#Call the variable to return the array
+$1
+
+
+#create an array with integers (list with commas)
+$a = 1 , 2 , 3 , 4 , 5
+
+#Call the variable to only return the second item in the array(brackets with number 1)
+$a[1]
+
+
+#Add the Second integer and third of an array and return the result
+$a[1] + $a[2]
